@@ -1,0 +1,11 @@
+{
+  "name": "the-grammar-line",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interaktiver Englisch-Grammatikkurs (berufliches Gymnasium, Jahrgangsstufe 11) mit Netlify Functions und Netlify Blobs",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
